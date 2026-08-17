@@ -14,10 +14,10 @@ Hi, I am Akshay Arvind, a Thermal Engineer in the R&D division of Polaad and a T
   
 ## Skills:
 
-- System level and mathematical modelling: MATLAB Scripting (3/5), Python Jupyter (3/5), Google Colab - Python (2/5), GT Power (introductory exposure)
-- 0D and 1D combustion modelling: Cantera (3/5)
+- System level and mathematical modelling: MATLAB Scripting, Python Jupyter, Google Colab - Python, GT Power (introductory exposure)
+- 0D and 1D combustion modelling: Cantera
 - Experimental validation: Raman scattering, Lasers, Optics, Spectrometers
-- CFD Tools: ANSYS Fluent (3/5), OpenFOAM (2.5/5).
+- CFD Tools: ANSYS Fluent, OpenFOAM (developing) 
 - Documentation: Overleaf (3/5), Github (2/5), MS Office (3/5)
 
 ## CFD subdomains encountered through the work:
@@ -29,7 +29,7 @@ Hi, I am Akshay Arvind, a Thermal Engineer in the R&D division of Polaad and a T
 - Deliverable 1: Further improvements in Scientific writing and literature review, process mapping.
 - Deliverable 2: On-site communication with shop-floor level employees to acquire plant data, CHT subdomain in CFD.
 - Deliverable 3: Extended current personal capability with Cantera through Python by implementing the CRECK mechanism for NH3:H2 combustion studies with Cantera.
-- Deliverable 4: Extended personal capability with Cantera through Python by implementing Syngas:H2 mechanism and the NUIG mechanism for COG.
+- Deliverable 4: Extending personal capability with Cantera through Python by implementing Syngas:H2 mechanism and the NUIG mechanism for COG.
  
 ## Reflection
 
