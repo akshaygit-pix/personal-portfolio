@@ -6,12 +6,9 @@ Hi, I am Akshay Arvind, a Thermal Engineer in the R&D division of Polaad and a T
 
 ## Owned projects: 
 - #Deliverable 1: Literature review and technoeconomic assessment of IF dust and slag and SAC valorization.
-- #Deliverable 2: A comprehensive 1-D Finite Difference Method (FDM) model and a 3-D Computational Fluid Dynamics model (CFD) towards predicting the temperature history of wire coils in a Stelmor-like cooling conveyor and predicting the temperature field of air at reduced-order conditions, respectively, using Conjugate Heat Transfer (CHT), under ambient conditions, supported with appropriate experimental work, towards achieving a variable range of mechanical properties for wire coils of different coils as per end-consumer requirements.
-- #Deliverable 3 (open-ended): A technoeconomic feasibility study of retrofitting coal-fired reheating furnaces to gas-fired reheating furnaces using 0D and 1D combustion modelling (Cantera) and 2D combustion modelling (ANSYS Fluent).
+- #Deliverable 2 (Product development project): A comprehensive 1-D Finite Difference Method (FDM) model and a 3-D Computational Fluid Dynamics model (CFD) towards predicting the temperature history of wire coils in a Stelmor-like cooling conveyor and predicting the temperature field of air at reduced-order conditions, respectively, using Conjugate Heat Transfer (CHT), under ambient conditions, supported with appropriate experimental work, towards achieving a variable range of mechanical properties for wire coils of different coils as per end-consumer requirements.
+- #Deliverable 3 (open-ended sustainability project): A technoeconomic feasibility study of retrofitting coal-fired reheating furnaces to gas-fired reheating furnaces using 0D and 1D combustion modelling (Cantera) and 2D combustion modelling (ANSYS Fluent).
 
-## Supporting project work:
-- #Deliverable 4: Support the implementation of an in-plant vertical-shaft furnace deployment by aiding combustion studies with Cantera for further fuel blends: Syngas and Coke Oven Gas (COG).
-  
 ## Skills:
 
 - System level and mathematical modelling: MATLAB Scripting, Python Jupyter, Google Colab - Python, GT Power (introductory exposure)
@@ -29,7 +26,6 @@ Hi, I am Akshay Arvind, a Thermal Engineer in the R&D division of Polaad and a T
 - Deliverable 1: Further improvements in Scientific writing and literature review, process mapping.
 - Deliverable 2: On-site communication with shop-floor level employees to acquire plant data, CHT subdomain in CFD.
 - Deliverable 3: Extended current personal capability with Cantera through Python by implementing the CRECK mechanism for NH3:H2 combustion studies with Cantera.
-- Deliverable 4: Extending personal capability with Cantera through Python by implementing Syngas:H2 mechanism and the NUIG mechanism for COG.
  
 ## Reflection
 
