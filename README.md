@@ -1,6 +1,6 @@
 # personal-portfolio
 
-Hi, I am Akshay Arvind, a Thermal Engineer in the R&D division of Polaad and a TU/e alumnus with an MSc in mechanical engineering, specializing in (power and flow) thermofluids. My current role intersects thermofluids with end-to-end steel manufacturability and sustainability challenges from the scrap steel stage to finished QST bars stage. 
+Hi, I am Akshay Arvind, a Thermal Engineer in the R&D division of Polaad and a TU/e alumnus with an MSc in mechanical engineering, specializing in (power and flow) thermofluids. My current role intersects thermofluids with end-to-end steel manufacturability and sustainability challenges from the scrap steel stage to finished QST bars stage, with technical ownership and developing the CFD based vertical from within.
 
 ## Current deliverables and projects:
 
@@ -15,17 +15,17 @@ Hi, I am Akshay Arvind, a Thermal Engineer in the R&D division of Polaad and a T
 - 0D and 1D combustion modelling: Cantera
 - Experimental validation: Raman scattering, Lasers, Optics, Spectrometers
 - CFD Tools: ANSYS Fluent, OpenFOAM (developing) 
-- Documentation: Overleaf (3/5), Github (2/5), MS Office (3/5)
+- Documentation: Overleaf, Github, MS Office
 
 ## CFD subdomains encountered through the work:
 
-- Deliverable 2: Conjugate Heat Transfer (CHT)
+- Deliverable 2: Conjugate Heat Transfer (CHT), basic geometry and mesh cleanup (Geometry: Boolean combine/subtract, enclosure, share topology; Meshing: Proximity meshing and basic inflation layer creation (for laminar flow)), basic solver study and choice (coupled vs SIMPLE)
 
 ## Acquired skills:
 
 - Deliverable 1: Further improvements in Scientific writing and literature review, process mapping.
 - Deliverable 2: On-site communication with shop-floor level employees to acquire plant data, CHT subdomain in CFD.
-- Deliverable 3: Extended current personal capability with Cantera through Python by implementing the CRECK mechanism for NH3:H2 combustion studies with Cantera.
+- Deliverable 3: Extended current personal capability with Cantera through Python by implementing the CRECK mechanism for NH3:H2 combustion studies with Cantera. Investigating thermodynamic benchmarking of current reheating furnaces experimentally.
  
 ## Reflection
 
@@ -33,4 +33,4 @@ As I reflect on myself, I consistently find that critical thinking, verification
 
 ## Future vision:
 
-I aim to bridge industry and academia closer in the very long term, specializing mainly within my thermofluids specialization across departments and industrial sectors and contributing to industrial research through industry-academia PhD collaborations, both locally and globally. 
+I aim to bridge industry and academia closer in the very long term, specializing mainly within my thermofluids specialization across departments and industrial sectors and contributing to industrial research through industry-academia PhD collaborations, both locally and globally. Over the years, I aim to move with very less seam across different levels/fidelities of thermofluids-based modelling and experimental work, with a touch on workflow automation. 
