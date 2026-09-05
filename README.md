@@ -1,6 +1,6 @@
 # personal-portfolio
 
-Hi, I am Akshay Arvind, a Thermal Engineer in the R&D division of Polaad and a TU/e alumnus with an MSc in mechanical engineering, specializing in (power and flow) thermofluids. My current role intersects thermofluids with end-to-end steel manufacturability and sustainability challenges from the scrap steel stage to finished QST bars stage, with technical ownership and developing the CFD based vertical from within.
+Hi, I am Akshay Arvind, a Thermal Engineer in the R&D division of Polaad and a TU/e alumnus with an MSc in mechanical engineering, specializing in (power and flow) thermofluids. My current role intersects thermofluids with end-to-end steel manufacturability and sustainability challenges from the scrap steel stage to finished QST bars stage, with technical ownership and developing the thermofluids and CFD based vertical from within.
 
 ## Current deliverables and projects:
 
@@ -17,6 +17,7 @@ Hi, I am Akshay Arvind, a Thermal Engineer in the R&D division of Polaad and a T
 - Experimental validation: Raman scattering, Lasers, Optics, Spectrometers
 - CFD Tools: ANSYS Fluent, OpenFOAM (developing) 
 - Documentation: LATEX, Github, MS Office
+- Soft skills: 
 
 ## Sanitized work will be made available where appropriate and indicated per deliverable.
 
